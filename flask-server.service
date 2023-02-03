@@ -1,0 +1,13 @@
+[Unit]
+ Description=Flask server
+ After=network.target
+
+ [Service]
+ User=abc_user
+ Group=abc_user
+ WorkingDirectory=/home/abc_user/flask_app
+ ExecStart=flask --app main --run --host=0.0.0.0 --port 8000
+ Restart=always
+
+ [Install]
+ WantedBy=multi-user.target

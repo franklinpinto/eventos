@@ -1,6 +1,17 @@
 Aplicación de Eventos Entrega 0 Desarrollo Cloud - Franklin Augusto Pinto Carreño -f.pintoc@uniandes.edu.co - 201011075
 
+URL repositorio en GitHub: https://github.com/franklinpinto/eventos&nbsp;
+
+URL repositorio video sustentación:&nbsp; &nbsp; &nbsp; https://github.com/franklinpinto/eventos/blob/main/AppWeB%20Eventos.mp4
+
+URL repositorio Readme:&nbsp;https://github.com/franklinpinto/eventos/blob/main/README.md
+
+URL aplicación web: http://3.85.43.213:8000/ (Será requerido iniciar la instancia EC2 y reemplazar la IP publica generada)
+
+
 LINK VIDEO APLICACIÓN PUESTA EN AMBIENTE DE PRODUCCIÓN INSTANCIA EC2 AWS https://github.com/franklinpinto/eventos/blob/main/AppWeB%20Eventos.mp4
+
+INSTRUCCIONES DE CONFIGURACIÓN SERVIDOR Y APLICACIÓN
 
 # Instalar Python - https://www.python.org/  - instalar pip -> se selecciona en la instalación de python.
 Python 3.8.3
